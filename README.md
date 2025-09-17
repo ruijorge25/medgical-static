@@ -1,0 +1,1 @@
+# Medgical AI — microsite estático v2
